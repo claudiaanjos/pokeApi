@@ -5,7 +5,7 @@
 
 Projeto desenvolvido para consolidar os conhecimentos de Back-end.
 
-Para esse projeto foi construída uma RESTful API para responder informações de pokemons.
+Para esse projeto foi construída uma API para responder informações de pokemons.
 
 Para tal, foi utilizado como fonte dos dados uma API já existente que é a [pokeapi](https://pokeapi.co/api/v2/pokemon/).
 
